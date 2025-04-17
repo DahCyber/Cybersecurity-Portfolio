@@ -43,6 +43,25 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 ## Tools Used
 `OpenVAS` `Graylog` `PFsense+` `Kali Linux` `Nmap` `Metasploit` `VirtualBox` `Ubuntu`
 
+## Graylog Dashboard & Custom Widgets
+
+Below are screenshots of the Graylog dashboard and custom widgets I created during my internship. These visualizations helped analyze log data and filter events efficiently.
+
+### Dashboard Overview
+![Graylog Dashboard](images/graylog_dashboard.png)
+
+### Event Severity Pie Chart
+![Event Severity Pie Chart](images/event_severity_pie.png)
+
+### Log Traffic Line Chart
+![Log Line Chart](images/log_line_chart.png)
+
+### Geolocation Visualization
+![Geolocation Widget](images/geo_widget.png)
+
+### Pipeline Rule (Custom Event Tagging)
+This rule helped filter and tag logs based on the `level` field to quickly isolate high-severity events.
+![Pipeline Rule](images/pipeline_rule_example.png)
 ---
 
 ## About Me
