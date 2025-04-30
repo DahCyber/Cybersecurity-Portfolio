@@ -34,37 +34,26 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 - Set up a virtual penetration testing lab with Kali Linux and Metasploitable 2.
 - Exploited services to gain initial access and escalated privileges to root.
 
-### 7. Cybersecurity Career Development
+### 7. **OpenVAS Email Alert Integration with Gmail** (Completed)
+- Configured `msmtp` inside Dockerized OpenVAS to send email alerts via Gmail SMTP.
+- Automated scan result email notifications, improving vulnerability management workflows.
+- Leveraged secure Gmail App Passwords for authentication and ensured encrypted TLS communication.
+- **Key Technologies Used**: Docker, OpenVAS, msmtp, Gmail SMTP, TLS/SSL
+- [Detailed README and Setup Guide](#) (Link to your GitHub)
+
+### 8. Cybersecurity Career Development
 - Built resume-ready experience across security analysis and penetration testing.
 - Learned blue team defensive strategies and built a GitHub project portfolio.
 
 ---
 
 ## Tools Used
-`OpenVAS` `Graylog` `PFsense+` `Kali Linux` `Nmap` `Metasploit` `VirtualBox` `Ubuntu`
+`OpenVAS` `Graylog` `PFsense+` `Kali Linux` `Nmap` `Metasploit` `VirtualBox` `Ubuntu` `Docker` `msmtp` `Gmail SMTP`
 
-## Graylog Dashboard & Custom Widgets
-
-Below are screenshots of the Graylog dashboard and custom widgets I created during my internship. These visualizations helped analyze log data and filter events efficiently.
-
-### Dashboard Overview
-![Graylog Dashboard](images/graylog_dashboard.png)
-
-### Event Severity Pie Chart
-![Event Severity Pie Chart](images/event_severity_pie.png)
-
-### Log Traffic Line Chart
-![Log Line Chart](images/log_line_chart.png)
-
-### Geolocation Visualization
-![Geolocation Widget](images/geo_widget.png)
-
-### Pipeline Rule (Custom Event Tagging)
-This rule helped filter and tag logs based on the `level` field to quickly isolate high-severity events.
-![Pipeline Rule](images/pipeline_rule_example.png)
 ---
 
 ## About Me
 I'm a passionate cybersecurity intern working toward an entry-level security analyst role. This portfolio showcases my commitment to building a strong foundation through hands-on learning and self-driven projects.
 
 **Connect with me on GitHub or reach out if you'd like to know more about any of the work here.**
+
