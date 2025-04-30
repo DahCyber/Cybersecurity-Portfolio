@@ -11,6 +11,7 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 - Installed and configured OpenVAS to scan internal network ranges.
 - Identified vulnerabilities and created remediation reports.
 - Resolved issues with IP range scanning and fine-tuned scan parameters.
+- Link: https://github.com/DahCyber/Vulnerability-Scanning-with-OpenVAS/blob/a61e8d781ae1b7babe3a5a60285b2dc796317bc3/README.md
 
 ### 2. Honeypot Research Project (In Progress)
 - Designed a long-term honeypot project for learning deception techniques.
