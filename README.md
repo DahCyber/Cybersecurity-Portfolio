@@ -39,7 +39,7 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 - Automated scan result email notifications, improving vulnerability management workflows.
 - Leveraged secure Gmail App Passwords for authentication and ensured encrypted TLS communication.
 - **Key Technologies Used**: Docker, OpenVAS, msmtp, Gmail SMTP, TLS/SSL
-- [Detailed README and Setup Guide](#) (Link to your GitHub)
+- [Detailed README and Setup Guide](#) (https://github.com/DahCyber/openvas-email-alerts/blob/803f344ccf98f575e4c7500b33623e6f70f096ee/README.md)
 
 ### 8. Cybersecurity Career Development
 - Built resume-ready experience across security analysis and penetration testing.
