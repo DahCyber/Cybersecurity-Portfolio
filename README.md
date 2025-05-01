@@ -34,6 +34,7 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 ### 6. Metasploit with Metasploitable 2
 - Set up a virtual penetration testing lab with Kali Linux and Metasploitable 2.
 - Exploited services to gain initial access and escalated privileges to root.
+- Link: https://github.com/DahCyber/Graylog.git
 
 ### 7. **OpenVAS Email Alert Integration with Gmail** (Completed)
 - Configured `msmtp` inside Dockerized OpenVAS to send email alerts via Gmail SMTP.
