@@ -32,6 +32,7 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 ### 5. Nmap Scanning & Network Reconnaissance
 - Used Kali Linux and Nmap to discover hosts, open ports, and services.
 - Performed OS detection and enumeration on local lab targets.
+- Link: https://github.com/DahCyber/Metasploitable-2.git
 
 ### 6. Metasploit with Metasploitable 2
 - Set up a virtual penetration testing lab with Kali Linux and Metasploitable 2.
