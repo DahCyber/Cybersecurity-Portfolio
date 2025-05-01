@@ -21,6 +21,7 @@ This portfolio highlights my hands-on experience and skills gained during my cyb
 - Managed and filtered firewall logs.
 - Customized rule sets to improve security and reduce noise.
 - Gained experience with network-level traffic control and rule-based filtering.
+- https://github.com/DahCyber/Pfsense-Firewall-Configs.git
 
 ### 4. Graylog Log Management & Analysis
 - Integrated OpenVAS logs into Graylog for centralized monitoring.
